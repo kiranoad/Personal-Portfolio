@@ -1,0 +1,30 @@
+body{
+margin: 0;
+padding: 0;
+}
+
+#main{
+    position: relative;
+    width: 100%;
+    height: 100%;
+ 
+}
+#fullScreen{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+#elem{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    background-color: #ff7200;
+}
+#white{
+    width: 100%;
+    height: 0;
+    position: absolute;
+    bottom: 0;
+    background-color: #dadada;
+}
